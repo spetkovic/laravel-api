@@ -1,3 +1,2 @@
 # laravel-api
-
-testing env
+env
